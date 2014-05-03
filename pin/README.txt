@@ -1,1 +1,0 @@
-SADP implementation of application pinning

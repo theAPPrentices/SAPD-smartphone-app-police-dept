@@ -1,0 +1,19 @@
+TEAM CONTRIBUTION:
+
+* Edward Reyes:
+- Component Level Design
+- Interfaces
+- Client side design
+- Testing & automation
+- Design patterns used
+
+* Sahil Arora:
+- Project description
+- Project requirements
+- Sequence or workflow
+
+*Suantak Niangneihoi:
+- Mobile UI design principles – Storyboard, Wireframes
+- High level architecture design
+- Mobile & Cloud Technologies Used & Descriptions
+
